@@ -8,18 +8,13 @@
     },
     {
       "id": "user2",
-      "user_id": 7738913005,
-      "emoji_id": 5420323339723881652,
-      "text_template": "Тупа сломал ядерку"
-    },
-    {
-      "id": "channel4",
-      "chat_id": 1203967657,
+      "user_id": 2041234781,
       "emoji_id": 5274251995908179489,
-      "text_template": "**{chat_name}** is the official resource of **Doxgram**!"
-    }    
+      "text_template": "Тупа сломал ядерку"
+    }
   ]
 }
+
 
 
 
