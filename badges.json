@@ -31,9 +31,34 @@
       "text_template": "**{user_name}** получил анмод в прессе",
       "link": "max.ru",
       "link_text": "связаться со мной"
+    }, 
+    {
+      "id": "user5",
+      "user_id": 8167224307,
+      "emoji_id": 5420642954010175242,
+      "text_template": "**{user_name}** чикен банана тюлень скачать",
+      "link": "max.ru",
+      "link_text": "связаться со мной"
+    },
+    {
+      "id": "user6",
+      "user_id": 8167224307,
+      "emoji_id": 5449476181864779205,
+      "text_template": "**{user_name}** поддержал воровство фич у **exteraGram**",
+      "link": "max.ru",
+      "link_text": "связаться со мной"
+    },
+    {
+      "id": "channel6",
+      "user_id": 8167224307,
+      "emoji_id": 5449476181864779205,
+      "text_template": "Cherrygram official resource",
+      "link": "max.ru",
+      "link_text": "связаться со мной"
     }
   ]
 }
+
 
 
 
