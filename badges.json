@@ -4,68 +4,53 @@
       "id": "user1",
       "user_id": 5069858266,
       "emoji_id": 5274251995908179489,
-      "text_template": "**{user_name}** тупа **ПРСДРТЯ**",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "**{user_name}** тупа **ПРСДРТЯ**"
     },
     {
       "id": "user2",
       "user_id": 5349149970,
       "emoji_id": 5274251995908179489,
-      "text_template": "**{user_name}** Тупа сломал **ядерку** своими **жирностями**",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "**{user_name}** Тупа сломал **ядерку** своими **жирностями**"
     }, 
     {
       "id": "user3",
       "user_id": 8167224307,
       "emoji_id": 5420642954010175242,
-      "text_template": "**{user_name}** чикен банана тюлень скачать",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "**{user_name}** чикен банана тюлень скачать"
     },
     {
       "id": "user4",
       "user_id": 7087241402,
       "emoji_id": 5240241223632954241,
-      "text_template": "**{user_name}** получил анмод в прессе",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "**{user_name}** получил анмод в прессе"
     }, 
     {
       "id": "user5",
       "user_id": 1,
       "emoji_id": 5420642954010175242,
-      "text_template": "**{user_name}** чикен банана тюлень скачать",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "**{user_name}** чикен банана тюлень скачать"
     },
     {
       "id": "user6",
       "user_id": 282287840,
       "emoji_id": 5449476181864779205,
-      "text_template": "**{user_name}** поддержал воровство фич у **exteraGram**",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "**{user_name}** поддержал воровство фич у **exteraGram**"
     },
     {
       "id": "channel6",
       "user_id": 2685666919,
       "emoji_id": 5449476181864779205,
-      "text_template": "Cherrygram official resource",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "Cherrygram official resource"
     },
     {
       "id": "user7",
       "user_id": 414113541,
       "emoji_id": 5265217605215489111,
-      "text_template": "Федеральная служба в сфере посрать",
-      "link": "max.ru",
-      "link_text": "связаться со мной"
+      "text_template": "Федеральная служба в сфере посрать"
     }
   ]
 }
+
 
 
 
