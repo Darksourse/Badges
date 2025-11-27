@@ -3,14 +3,14 @@
     {
       "id": "user1",
       "user_id": 5069858266,
-      "emoji_id": 5274251995908179489,
-      "text_template": "**{user_name}** тупа **ПРСДРТЯ**"
+      "emoji_id": 5418165771492671187,
+      "text_template": "Still Ailve"
     },
     {
       "id": "user2",
       "user_id": 5349149970,
       "emoji_id": 5274251995908179489,
-      "text_template": "**{user_name}** Тупа сломал **ядерку** своими **жирностями**"
+      "text_template": "**{user_name}** является участником **exteraGram supporters**"
     }, 
     {
       "id": "user3",
@@ -34,7 +34,7 @@
       "id": "user6",
       "user_id": 282287840,
       "emoji_id": 5449476181864779205,
-      "text_template": "**{user_name}** поддержал воровство фич у **exteraGram**"
+      "text_template": "**{user_name}** support development of **Cherrygram**"
     },
     {
       "id": "channel6",
