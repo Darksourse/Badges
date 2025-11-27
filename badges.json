@@ -50,7 +50,7 @@
     },
     {
       "id": "channel6",
-      "user_id": -1002685666919,
+      "user_id": 2685666919,
       "emoji_id": 5449476181864779205,
       "text_template": "Cherrygram official resource",
       "link": "max.ru",
@@ -58,6 +58,7 @@
     }
   ]
 }
+
 
 
 
