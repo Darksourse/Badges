@@ -23,9 +23,18 @@
       "text_template": "**{user_name}** чикен банана тюлень скачать",
       "link": "max.ru",
       "link_text": "связаться со мной"
+    },
+    {
+      "id": "user4",
+      "user_id": 7087241402,
+      "emoji_id": 5240241223632954241,
+      "text_template": "**{user_name}** получил анмод в прессе",
+      "link": "max.ru",
+      "link_text": "связаться со мной"
     }
   ]
 }
+
 
 
 
