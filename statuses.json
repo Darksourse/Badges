@@ -1,6 +1,10 @@
 [
-  {"id":-2004390799758,
-    "status":"durov",
-    "custom":null,
-    "updated":1760074696.2780528}
+  {"id":5069858266,
+    "status": "custom",
+    "custom":
+     {
+       "icon":5361662087984592934,
+       "description":"Прсдртя"
+     }
+    "updated":-1}
   }
