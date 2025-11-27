@@ -55,9 +55,18 @@
       "text_template": "Cherrygram official resource",
       "link": "max.ru",
       "link_text": "связаться со мной"
+    },
+    {
+      "id": "user7",
+      "user_id": 414113541,
+      "emoji_id": 5265217605215489111,
+      "text_template": "Федеральная служба в сфере посрать",
+      "link": "max.ru",
+      "link_text": "связаться со мной"
     }
   ]
 }
+
 
 
 
