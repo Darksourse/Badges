@@ -1,4 +1,4 @@
-
+{
 "badges": [
   {
     "id": "user1",
@@ -267,6 +267,276 @@
   {
     "id": "user45",
     "user_id": 396614502,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user46",
+    "user_id": 322876545,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user47",
+    "user_id": 519760448,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user48",
+    "user_id": 5517745817,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user49",
+    "user_id": 224419044,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user50",
+    "user_id": 8009865135,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user51",
+    "user_id": 7980344760,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user52",
+    "user_id": 7941352976,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user53",
+    "user_id": 5299277663,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user54",
+    "user_id": 6204645839,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user55",
+    "user_id": 7694970516,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user56",
+    "user_id": 5984378993,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user57",
+    "user_id": 982685776,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user58",
+    "user_id": 1282540315,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user59",
+    "user_id": 1348136086,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user60",
+    "user_id": 5229777743,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user61",
+    "user_id": 5875370439,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user62",
+    "user_id": 349250870,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user63",
+    "user_id": 683267321,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user64",
+    "user_id": 5906542891,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user65",
+    "user_id": 6789505147,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user66",
+    "user_id": 7067235339,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user67",
+    "user_id": 5875370349,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user68",
+    "user_id": 7221099051,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user69",
+    "user_id": 7619270504,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user70",
+    "user_id": 1170147841,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user71",
+    "user_id": 482283985,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user72",
+    "user_id": 1218845111,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user73",
+    "user_id": 6520717123,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user74",
+    "user_id": 401366501,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user75",
+    "user_id": 5118627360,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user76",
+    "user_id": 7544523995,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user77",
+    "user_id": 6677376461,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user78",
+    "user_id": 5850421694,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user79",
+    "user_id": 6794739894,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user80",
+    "user_id": 1928709128,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user81",
+    "user_id": 6682931105,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user82",
+    "user_id": 794444363,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user83",
+    "user_id": 392851555,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user84",
+    "user_id": 5646143441,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user85",
+    "user_id": 7937223128,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user86",
+    "user_id": 1487965004,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user87",
+    "user_id": 5121300540,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user88",
+    "user_id": 7642501114,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user89",
+    "user_id": 7333812204,
+    "emoji_id": 5449476181864779205,
+    "text_template": "**{user_name}** support development of **Cherrygram**"
+  },
+  {
+    "id": "user90",
+    "user_id": 884856013,
     "emoji_id": 5449476181864779205,
     "text_template": "**{user_name}** support development of **Cherrygram**"
   }
