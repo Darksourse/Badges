@@ -4,16 +4,21 @@
       "id": "user1",
       "user_id": 5069858266,
       "emoji_id": 5274251995908179489,
-      "text_template": "**{user_name}** тупа **ПРСДРТЯ**"
+      "text_template": "**{user_name}** тупа **ПРСДРТЯ**",
+      "link": "max.ru",
+      "link_text": "связаться со мной"
     },
     {
       "id": "user2",
       "user_id": 5349149970,
       "emoji_id": 5274251995908179489,
-      "text_template": "**{user_name}** Тупа сломал **ядерку** своими **жирностями**"
+      "text_template": "**{user_name}** Тупа сломал **ядерку** своими **жирностями**",
+      "link": "max.ru",
+      "link_text": "связаться со мной"
     }
   ]
 }
+
 
 
 
