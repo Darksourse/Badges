@@ -1,0 +1,176 @@
+[
+  {
+    "id": -2004390799758,
+    "status": "durov",
+    "custom": null,
+    "updated": 1760074696.2780528
+  },
+  {
+    "id": -1008410456439,
+    "status": "major",
+    "custom": null,
+    "updated": 1758179708.645137
+  },
+  {
+    "id": -1008159105876,
+    "status": "null",
+    "custom": null,
+    "updated": 1760975377.208599
+  },
+  {
+    "id": -1007213772614,
+    "status": "null",
+    "custom": null,
+    "updated": 1760975376.6943758
+  },
+  {
+    "id": -1003171676769,
+    "status": "custom",
+    "custom": {
+      "icon": 5361657131592334418,
+      "description": "Gateways"
+    },
+    "updated": 1760110470.2371962
+  },
+  {
+    "id": -1003091974897,
+    "status": "rkn",
+    "custom": null,
+    "updated": 1760008802.976209
+  },
+  {
+    "id": -1003040748727,
+    "status": "verified",
+    "custom": null,
+    "updated": 1758132567.746291
+  },
+  {
+    "id": -1003034344481,
+    "status": "durov",
+    "custom": null,
+    "updated": 1758450750.3612661
+  },
+  {
+    "id": -1003030098396,
+    "status": "custom",
+    "custom": {
+      "icon": 5258476306152038031,
+      "description": "sddd"
+    },
+    "updated": 1758544073.4557204
+  },
+  {
+    "id": -1002902980583,
+    "status": "custom",
+    "custom": {
+      "icon": 5361615045207800842,
+      "description": "Subjects"
+    },
+    "updated": 1760110470.0089407
+  },
+  {
+    "id": -1002893521745,
+    "status": "major",
+    "custom": null,
+    "updated": 1758268208.876367
+  },
+  {
+    "id": -1002867031482,
+    "status": "custom",
+    "custom": {
+      "icon": 5364071126550984492,
+      "description": "Chronicle"
+    },
+    "updated": 1760109707.5887673
+  },
+  {
+    "id": -1002863094147,
+    "status": "major",
+    "custom": null,
+    "updated": 1758274619.0273345
+  },
+  {
+    "id": -1002813564336,
+    "status": "rkn",
+    "custom": null,
+    "updated": 1758277699.9373274
+  },
+  {
+    "id": -1002782987927,
+    "status": "rkn",
+    "custom": null,
+    "updated": 1762335070.298987
+  },
+  {
+    "id": -1002780960674,
+    "status": "durov",
+    "custom": null,
+    "updated": 1758287838.4071677
+  },
+  {
+    "id": -1002764548258,
+    "status": "custom",
+    "custom": {
+      "icon": 5337084116158413019,
+      "description": "Регистрация в РКН: https://qdok.ru/exterafans"
+    },
+    "updated": 1762768878.0869503
+  },
+  {
+    "id": -1002686271885,
+    "status": "rkn",
+    "custom": null,
+    "updated": 1758285042.8590417
+  },
+  {
+    "id": -1002685666919,
+    "status": "major",
+    "custom": null,
+    "updated": 1758261213.6096406
+  },
+  {
+    "id": -1002623311249,
+    "status": "scam",
+    "custom": null,
+    "updated": 1760093922.0060863
+  },
+  {
+    "id": -1002607424912,
+    "status": "custom",
+    "custom": {
+      "icon": 5215436945684971710,
+      "description": "Legacy UserBot OneLove"
+    },
+    "updated": 1760110729.4153726
+  },
+  {
+    "id": -1002578927281,
+    "status": "custom",
+    "custom": {
+      "icon": 5361988711657519741,
+      "description": "Realm"
+    },
+    "updated": 1760109706.7914293
+  },
+  {
+    "id": -1002569687034,
+    "status": "custom",
+    "custom": {
+      "icon": 5361690701056720637,
+      "description": "Kingdom"
+    },
+    "updated": 1760109706.5438175
+  },
+  {
+    "id": -1002526222628,
+    "status": "scam",
+    "custom": null,
+    "updated": 1758634580.6415937
+  },
+  {
+    "id": -1002508578680,
+    "status": "scam",
+    "custom": null,
+    "updated": 1758634586.1270714
+  }
+]
